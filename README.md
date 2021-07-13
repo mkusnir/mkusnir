@@ -1,8 +1,8 @@
 ### Hi there, I'm Martin!
 
 I'm a first-year Computer Engineering student at the University of Waterloo, passionate about software development (particularly back-end and open-source), mountain biking and skiing.
-
-Currently, I'm looking for Fall 2021 internship opportunities.
+<!--
+Currently, I'm looking for Fall 2021 internship opportunities.-->
 
 Check out my LinkedIn profile at [linkedin.com/in/mkusnir](https://www.linkedin.com/in/mkusnir) or reach me at [mkusnir@uwaterloo.ca](mailto:mkusnir@uwaterloo.ca).
 
