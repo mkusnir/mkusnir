@@ -2,8 +2,6 @@
 
 I'm a second-year Computer Engineering student at the University of Waterloo, passionate about software development, mountain biking and skiing.
 
-Currently, I'm looking for Winter 2023 internship opportunities.
-
 Check out my LinkedIn profile at [linkedin.com/in/mkusnir](https://www.linkedin.com/in/mkusnir) or reach me at [mkusnir@uwaterloo.ca](mailto:mkusnir@uwaterloo.ca).
 
 <!--
