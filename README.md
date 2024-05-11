@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin!
 
-I'm a third-year Computer Engineering student at the University of Waterloo, passionate about software development, mountain biking and skiing.
+I'm a fourth-year Computer Engineering student at the University of Waterloo, passionate about software development, camping, skiing, and more.
 
 Check out my LinkedIn profile at [linkedin.com/in/mkusnir](https://www.linkedin.com/in/mkusnir) or reach me at [mkusnir@uwaterloo.ca](mailto:mkusnir@uwaterloo.ca).
 
